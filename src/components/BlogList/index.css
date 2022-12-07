@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.img {
+  height: 250px;
+  width: 250px;
+}
+.home-con {
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #616e7c;
+}
+.description {
+  color: #9aa5b1;
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 500;
+}
